@@ -34,7 +34,6 @@ export default function Footer() {
           </span>
           LinkedIn
         </a>
-        <p className="quote">«Diseño con propósito, cada píxel cuenta.»</p>
       </div>
     </footer>
   )
