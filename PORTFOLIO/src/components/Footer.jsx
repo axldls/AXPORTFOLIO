@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer section animate-on-scroll" id="contact">
       <div className="footer-copy">
         <p className="section-label">Contacto</p>
-        <h2>¿Listo para crear algo memorable?</h2>
+        <h2>Contactame</h2>
         <p>Escríbeme y trabajemos juntos en una presencia digital sólida, elegante y centrada en resultados.</p>
       </div>
       <div className="footer-actions">
@@ -19,7 +19,7 @@ export default function Footer() {
               <path d="M12.004 2.003A9.997 9.997 0 0 0 2.01 12c0 1.76.464 3.395 1.274 4.822L2 22l5.29-1.382A9.983 9.983 0 0 0 12.004 22 9.997 9.997 0 0 0 22 12.002c0-5.523-4.477-10-9.996-10zm0 18.113c-1.67 0-3.244-.438-4.61-1.198l-.33-.187-3.141.822.838-3.06-.216-.348A8.047 8.047 0 0 1 3.96 12 8.042 8.042 0 0 1 11.99 3.99c4.442 0 8.065 3.624 8.065 8.013 0 4.426-3.624 8.112-8.05 8.112z"/>
             </svg>
           </span>
-          Escribime
+          <WhatsApp></WhatsApp>
         </a>
         <a
           href="https://www.linkedin.com/in/axel-andres-de-los-santos-bb4961406/"
