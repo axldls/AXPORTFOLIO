@@ -8,7 +8,7 @@ export default function Footer() {
       </div>
       <div className="footer-actions">
         <a
-          href="https://wa.me/5421125681802?text=Hola%20Axel%2C%20quiero%20consultar%20sobre%20tus%20proyectos."
+          href="https://wa.me/541125681802?text=Hola%20Axel%2C%20quiero%20consultar%20sobre%20tus%20proyectos."
           target="_blank"
           rel="noreferrer"
           className="button whatsapp"
