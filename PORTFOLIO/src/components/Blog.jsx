@@ -13,6 +13,10 @@ const blogPosts = [
     title: 'Aprendizaje clave',
     description: 'Hooks personalizados como useFetch, Context API para estado global y uso de IntersectionObserver para animaciones suaves.',
   },
+  {
+    title: 'IA + GitHub Copilot',
+    description: 'Integro herramientas de IA para acelerar el desarrollo, mejorar la estructura del código y generar soluciones más creativas.',
+  },
 ]
 
 export default function Blog() {

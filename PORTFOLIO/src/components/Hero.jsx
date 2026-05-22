@@ -11,6 +11,16 @@ export default function Hero() {
           <a href="#projects" className="button primary">Ver proyectos</a>
           <a href="#contact" className="button secondary">Contactame</a>
         </div>
+        <div className="hero-ai">
+          <span className="ai-badge">
+            <span className="copilot-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 2.2a7.8 7.8 0 0 1 6.94 11.78 1 1 0 0 1-1.6-1.18 5.8 5.8 0 1 0-7.47-7.47 1 1 0 0 1-1.18-1.6A7.787 7.787 0 0 1 12 4.2zm1.6 9.9a3.5 3.5 0 1 1-3.5-3.5 1 1 0 0 1 0 2 1.5 1.5 0 1 0 1.5 1.5 1 1 0 0 1 2 0z"/>
+              </svg>
+            </span>
+            <strong>IA + Copilot</strong> Potencio mis proyectos con sugerencias inteligentes, optimización de código y soluciones creativas.
+          </span>
+        </div>
       </div>
 
       <div className="hero-card">
