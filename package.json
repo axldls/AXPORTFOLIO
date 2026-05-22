@@ -1,4 +1,11 @@
 {
+  "name": "portfolio-root",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "cd PORTFOLIO && npm install && npm run build"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
