@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="hero-copy">
         <span className="section-label">Hola, soy Axel</span>
         <h2>Desarrollo experiencias digitales con React y diseño pensado para el usuario.</h2>
-        <p>En este portfolio muestro mis dos proyectos reales: <strong>AXMOVIES</strong>, un buscador de películas con OMDb, y <strong>xMusic</strong>, una tienda musical con carrito y Firebase.</p>
+        <p>En este portfolio muestro mis dos proyectos reales: <strong>AXMOVIES</strong>, un buscador de películas con OMDb, y <strong>AXMUSIC</strong>, una tienda musical con carrito y Firebase.</p>
         <div className="hero-actions">
           <a href="#projects" className="button primary">Ver proyectos</a>
           <a href="#contact" className="button secondary">Contactame</a>
